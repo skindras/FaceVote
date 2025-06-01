@@ -1,5 +1,5 @@
 # FaceVote
-FaceVote is an innovative voting system (completed in collaboration with Dyuti Raman and Twinkle Handa) that integrates facial recognition technology to authenticate 
+FaceVote is an innovative voting system (*completed in collaboration with Dyuti Raman and Twinkle Handa*) that integrates facial recognition technology to authenticate 
 voters before they cast their votes
 
 The primary objective of FaceVote is to develop a reliable, secure, and efficient voting system that: 
